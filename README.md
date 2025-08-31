@@ -39,13 +39,3 @@ git clone https://github.com/yourusername/PyPass.git
 cd PyPass
 
 ### 3. Install Dependencies
-```bash
-pip install -r requirements.txt
-
-### 4. Prepare the Compromised Password List
-```bash
-Download rockyou.txt from google
-
-### 5. Run the App
-```bash
-python.exe PyPass.py
