@@ -32,10 +32,3 @@ PyPass is a sleek, Python-powered desktop app that helps you check if your passw
 ```bash
 git clone https://github.com/yourusername/PyPass.git
 cd PyPass
-
-### 2. Create a Virtual Environment (Recommended)
-```bash
-git clone https://github.com/yourusername/PyPass.git
-cd PyPass
-
-### 3. Install Dependencies
