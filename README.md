@@ -22,7 +22,7 @@ PyPass is a sleek, Python-powered desktop app that helps you check if your passw
 ---
 
 ## 📸 Screenshot
-*(Add your app screenshot here)*
+![Screenshot of Password Checker](inde.png)
 
 ---
 
